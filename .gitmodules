@@ -20,3 +20,6 @@
 [submodule "modules/fasd/external"]
 	path = modules/fasd/external
 	url = https://github.com/clvv/fasd.git
+[submodule "modules/aliaster"]
+	path = modules/aliaster
+	url = https://github.com/wesalvaro/Aliaster.git
